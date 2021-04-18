@@ -10,3 +10,5 @@ For compilation and running on Windows (MingGW and cMake is installed). CD to th
 
 ## Controls
 Controls are simple and easy! W, A, S control movements; Up, Left and Right respectively. While the Mouse Button fires bullets.
+
+GAME IS IN UNFINISHED STATE! It will run but may be subject to bugs and have not a lot of features
